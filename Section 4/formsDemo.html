@@ -12,14 +12,18 @@
   <!-- method - what HTTP method (get/post). "GET" by default -->
   <!--<form action="http://wikipedia.org" method="GET">-->
   <form>
-    <input type="text" placeholder="username">
-    <input type="password" placeholder="password">
+    <label for="email">Email:</label>
+    <input id="email" type="email" placeholder="email" required>
+
+    <label for="password">Password:</label>
+    <input id="password" type="password" placeholder="password" required>
+
     <!--<input type="button" value="Click me!">--> 
     <!--NOTE: input type "button" is still supported, but the preffered way to go is the <button> tag used below -->
-    <!--<button type="submit">Click me!</button>-->
-    <input type="submit" value="Submit">
-   </form>
+    <!--<input type="submit" value="Submit">-->
+    <button type="submit">Submit</button>
 
-  
+
+   </form>
 </body>
 </html> 
