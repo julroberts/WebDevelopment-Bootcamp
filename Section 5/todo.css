@@ -1,0 +1,19 @@
+body {
+  background: orange;
+}
+
+li {
+  color: green;
+}
+
+#special {
+  background-color: yellow;
+}
+
+#firstParagraph {
+  background-color: white;
+}
+
+.checked {
+  text-decoration: underline;
+}

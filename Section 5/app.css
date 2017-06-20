@@ -1,0 +1,23 @@
+h1 {
+  color: rgba(100, 50, 100, 0.5);
+  border: 2px dotted black;
+  background-color: #c0c8ed;
+}
+
+li {
+  color: #4B0082;
+}
+
+h4 {
+  color: rgb(11, 99, 150);
+  background: #edecaa; 
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+body {
+  background: url(https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/965399/original/resize:248x186/crop:x0y31w626h468/hash:1466664139/1326325765_Picture_14.png?1466664139);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
