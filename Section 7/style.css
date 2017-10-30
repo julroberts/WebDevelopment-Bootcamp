@@ -1,0 +1,25 @@
+p {
+  /* Content - Width and Height */
+  width: 75%;
+
+  /* Border */
+  border: 2px solid rgb(218, 21, 21);
+
+  /* Padding */
+  padding: 10px;
+
+  /* Margin */
+}
+
+.Top_paragraph {
+  width: 90%;
+
+  align-self: center;
+
+  border: 5px solid green;
+
+  padding: 5px;
+
+  /* margin: 0 auto 0 auto; */
+  margin: 0 auto;
+}
