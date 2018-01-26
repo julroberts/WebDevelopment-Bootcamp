@@ -1,9 +1,92 @@
 .pTitle {
   background-color: rgb(248, 241, 135);
-  padding: 40px 0;
   text-align: center;
-  }
+  padding: 2%;
+  font-size: 50px;
+  font-weight: bold;
+}
 
-table {
-  border: 1px solid black;
+
+.divBoard {
+  background-color: blue;
+}
+
+.tblBoard {
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  background-color: aquamarine;
+}
+
+.tblBoard, td {
+  text-align: center;
+}
+
+.td11 {
+  border-right-style: solid;
+  border-right-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.td12 {
+  border-left-style: solid;
+  border-left-color: black;
+  border-right-style: solid;
+  border-right-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.td13 {
+  border-left-style: solid;
+  border-left-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.td21 {
+  border-top-style: solid;
+  border-top-color: black;
+  border-right-style: solid;
+  border-right-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.td22 {
+  border-style: solid;
+  border-color: black;
+}
+
+.td23 {
+  border-top-style: solid;
+  border-top-color: black;
+  border-left-style: solid;
+  border-left-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+}
+
+.td31 {
+  border-top-style: solid;
+  border-top-color: black;  
+  border-right-style: solid;
+  border-right-color: black;
+}
+
+.td32 {
+  border-left-style: solid;
+  border-left-color: black;
+  border-top-style: solid;
+  border-top-color: black;  
+  border-right-style: solid;
+  border-right-color: black;
+}
+
+.td33 {
+  border-left-style: solid;
+  border-left-color: black;
+  border-top-style: solid;
+  border-top-color: black;
 }
